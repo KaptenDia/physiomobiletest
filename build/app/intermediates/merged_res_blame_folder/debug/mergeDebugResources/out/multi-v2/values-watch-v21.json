@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.physiomobile.app-mergeDebugResources-39:/values-watch-v21/values-watch-v21.xml",
+            "outputFile": "com.example.physiomobile.app-mergeDebugResources-45:/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\fidsd\\.gradle\\caches\\8.10.2\\transforms\\845d779a6f9703b804f5e43452bcc2e5\\transformed\\appcompat-1.1.0\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "source": "C:\\Users\\fidsd\\.gradle\\caches\\8.10.2\\transforms\\09e2956504e67f4749317e402f491661\\transformed\\appcompat-1.1.0\\res\\values-watch-v21\\values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",
