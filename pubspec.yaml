@@ -1,0 +1,44 @@
+name: physiomobile
+description: :"Project physiomobile"
+version: 1.0.0
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # dependency injection
+  get_it: ^7.6.0
+  injectable: ^2.1.2
+
+  # http client
+  dio: ^5.4.0
+
+  # state management
+  flutter_riverpod: ^2.6.1
+
+  # local data
+  shared_preferences: ^2.2.0
+
+  # ui
+  mask_text_input_formatter: ^2.8.0
+  pattern_formatter: ^3.0.0
+  intl: ^0.18.0
+  persistent_bottom_nav_bar: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+  # code generator
+  build_runner: ^2.4.6
+  injectable_generator: ^2.1.6
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
