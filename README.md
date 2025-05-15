@@ -5,6 +5,8 @@ A Flutter application that fetches a list of posts from an API, displays them in
 ## ✨ Features
 
 - Display list of posts (title & body)
+- Display Input Full Name $ Email
+- Display Counter
 - Show loading indicator while fetching
 - Show error message if fetch fails
 - Pull-to-refresh / Refresh button
